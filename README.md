@@ -1,5 +1,3 @@
-# Web Progats
+# Practice QuerySelector
 
-## Add some more features
-
-- Add an arrow so the user can go to the top of the page at anytime
+Solution by [Santiago Castelli](https://github.com/SantiCastelli/WebProgatsStarterQuerySelector)
